@@ -1,0 +1,60 @@
+2019-10-17 09:48:08,689 640  [main] INFO  c.p.l.l.LogbackDemoApplication - Starting LogbackDemoApplication on Satyanarayanas-MacBook-Pro.local with PID 35445 (/Users/saagarwal/Downloads/logback-demo/target/classes started by saagarwal in /Users/saagarwal/Downloads/logback-demo)
+2019-10-17 09:48:08,691 642  [main] INFO  c.p.l.l.LogbackDemoApplication - No active profile set, falling back to default profiles: default
+2019-10-17 09:48:08,726 677  [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@7c417213: startup date [Thu Oct 17 09:48:08 EDT 2019]; root of context hierarchy
+2019-10-17 09:48:09,186 1137 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2019-10-17 09:48:09,197 1148 [main] INFO  c.p.l.l.LogbackDemoApplication - Started LogbackDemoApplication in 0.918 seconds (JVM running for 1.318)
+2019-10-17 09:48:09,199 1150 [main] INFO  c.p.l.l.component.TestComponent - *** TestComponent started ***
+2019-10-17 09:48:09,199 1150 [main] INFO  c.p.l.l.component.TestComponent -   Process step 0 started.
+2019-10-17 09:48:09,211 1162 [main] INFO  c.p.l.l.component.TestComponent -   Process step 0 completed.
+2019-10-17 09:48:09,212 1163 [main] INFO  c.p.l.l.component.TestComponent -   Process step 1 started.
+2019-10-17 09:48:09,223 1174 [main] INFO  c.p.l.l.component.TestComponent -   Process step 1 completed.
+2019-10-17 09:48:09,223 1174 [main] INFO  c.p.l.l.component.TestComponent -   Process step 2 started.
+2019-10-17 09:48:09,234 1185 [main] INFO  c.p.l.l.component.TestComponent -   Process step 2 completed.
+2019-10-17 09:48:09,234 1185 [main] INFO  c.p.l.l.component.TestComponent -   Process step 3 started.
+2019-10-17 09:48:09,247 1198 [main] INFO  c.p.l.l.component.TestComponent -   Process step 3 completed.
+2019-10-17 09:48:09,247 1198 [main] INFO  c.p.l.l.component.TestComponent -   Process step 4 started.
+2019-10-17 09:48:09,259 1210 [main] INFO  c.p.l.l.component.TestComponent -   Process step 4 completed.
+2019-10-17 09:48:09,259 1210 [main] INFO  c.p.l.l.component.TestComponent -   Process step 5 started.
+2019-10-17 09:48:09,271 1222 [main] INFO  c.p.l.l.component.TestComponent -   Process step 5 completed.
+2019-10-17 09:48:09,271 1222 [main] INFO  c.p.l.l.component.TestComponent -   Process step 6 started.
+2019-10-17 09:48:09,283 1234 [main] INFO  c.p.l.l.component.TestComponent -   Process step 6 completed.
+2019-10-17 09:48:09,283 1234 [main] INFO  c.p.l.l.component.TestComponent -   Process step 7 started.
+2019-10-17 09:48:09,294 1245 [main] INFO  c.p.l.l.component.TestComponent -   Process step 7 completed.
+2019-10-17 09:48:09,294 1245 [main] INFO  c.p.l.l.component.TestComponent -   Process step 8 started.
+2019-10-17 09:48:09,305 1256 [main] INFO  c.p.l.l.component.TestComponent -   Process step 8 completed.
+2019-10-17 09:48:09,305 1256 [main] INFO  c.p.l.l.component.TestComponent -   Process step 9 started.
+2019-10-17 09:48:09,317 1268 [main] INFO  c.p.l.l.component.TestComponent -   Process step 9 completed.
+2019-10-17 09:48:09,318 1269 [main] WARN  c.p.l.l.component.TestComponent - *** TestComponent completed with {} ***PT0.119S
+2019-10-17 09:48:09,319 1270 [main] INFO  c.p.l.l.component.TestComponent2 - *** TestComponent2 started ***
+2019-10-17 09:48:09,319 1270 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 0 started.
+2019-10-17 09:48:09,330 1281 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 0 completed.
+2019-10-17 09:48:09,330 1281 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 1 started.
+2019-10-17 09:48:09,342 1293 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 1 completed.
+2019-10-17 09:48:09,343 1294 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 2 started.
+2019-10-17 09:48:09,355 1306 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 2 completed.
+2019-10-17 09:48:09,355 1306 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 3 started.
+2019-10-17 09:48:09,366 1317 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 3 completed.
+2019-10-17 09:48:09,366 1317 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 4 started.
+2019-10-17 09:48:09,379 1330 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 4 completed.
+2019-10-17 09:48:09,379 1330 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 5 started.
+2019-10-17 09:48:09,390 1341 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 5 completed.
+2019-10-17 09:48:09,390 1341 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 6 started.
+2019-10-17 09:48:09,401 1352 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 6 completed.
+2019-10-17 09:48:09,401 1352 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 7 started.
+2019-10-17 09:48:09,411 1362 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 7 completed.
+2019-10-17 09:48:09,411 1362 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 8 started.
+2019-10-17 09:48:09,422 1373 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 8 completed.
+2019-10-17 09:48:09,422 1373 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 9 started.
+2019-10-17 09:48:09,433 1384 [main] INFO  c.p.l.l.component.TestComponent2 -   Process step 9 completed.
+2019-10-17 09:48:09,433 1384 [main] WARN  c.p.l.l.component.TestComponent2 - *** TestComponent2 completed with {} ***PT0.114S
+2019-10-17 09:56:14,066 159  [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.pivotal.logback.logbackdemo.LogbackDemoApplicationTests], using SpringBootContextLoader
+2019-10-17 09:56:14,070 163  [main] INFO  o.s.t.c.s.AbstractContextLoader - Could not detect default resource locations for test class [com.pivotal.logback.logbackdemo.LogbackDemoApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2019-10-17 09:56:14,071 164  [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.pivotal.logback.logbackdemo.LogbackDemoApplicationTests]: LogbackDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2019-10-17 09:56:14,151 244  [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.pivotal.logback.logbackdemo.LogbackDemoApplication for test class com.pivotal.logback.logbackdemo.LogbackDemoApplicationTests
+2019-10-17 09:56:14,225 318  [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+2019-10-17 09:56:14,233 326  [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@6a2f6f80, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@45b4c3a9, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@399c4be1, org.springframework.test.context.support.DirtiesContextTestExecutionListener@291caca8, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@385e9564, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@5b94b04d, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@8c3b9d, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@4c39bec8, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@f79e]
+2019-10-17 09:56:14,389 482  [main] INFO  c.p.l.l.LogbackDemoApplicationTests - Starting LogbackDemoApplicationTests on Satyanarayanas-MacBook-Pro.local with PID 35537 (started by saagarwal in /Users/saagarwal/Downloads/logback-demo)
+2019-10-17 09:56:14,389 482  [main] INFO  c.p.l.l.LogbackDemoApplicationTests - No active profile set, falling back to default profiles: default
+2019-10-17 09:56:14,405 498  [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@537f60bf: startup date [Thu Oct 17 09:56:14 EDT 2019]; root of context hierarchy
+2019-10-17 09:56:14,749 842  [main] INFO  c.p.l.l.LogbackDemoApplicationTests - Started LogbackDemoApplicationTests in 0.494 seconds (JVM running for 1.063)
+2019-10-17 09:56:14,817 910  [Thread-6] INFO  o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@537f60bf: startup date [Thu Oct 17 09:56:14 EDT 2019]; root of context hierarchy
